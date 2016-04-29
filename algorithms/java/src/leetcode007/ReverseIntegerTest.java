@@ -1,11 +1,11 @@
-package leetcode054;
+package leetcode007;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
 
-public class SpiralMatrixTest {
+public class ReverseIntegerTest {
 
 	@Before
 	public void setUp() throws Exception {
